@@ -1,4 +1,4 @@
-# Big Cities Music project #
+# Music Streaming Service Analysis #
 
 The project focuses on analyzing user behavior on the streaming platform Yandex.Music in two major Russian cities.
 
