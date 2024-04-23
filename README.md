@@ -1,5 +1,5 @@
 # Completed projects
 
-During my intensive Data Science training at Yandex from August 2023 to April 2024, I completed 15 projects aimed at addressing real-world challenges using machine learning methodologies. 
-Specializing in predictive modeling, I utilized techniques such as linear regression, logistic regression, binary text classification, and deep learning with Convolutional Neural Networks, notably employing the ResNet50 model for tasks like age estimation. 
-Additionally, I managed SQL tasks for data extraction, manipulation, and analysis, contributing to comprehensive data-driven solutions. These projects provided invaluable hands-on experience in solving diverse data science problems.
+During my Data Science training at Yandex from August 2023 to April 2024, I completed 15 projects focusing on real-world challenges using machine learning methods. 
+I specialized in predictive modeling, employing a range of techniques including linear regression, logistic regression, xgboost, lightgbm, catboost, and deep learning with CNNs, among other methods. 
+I also handled SQL tasks for data extraction, manipulation, and analysis. These projects provided practical experience in solving diverse data science problems.
